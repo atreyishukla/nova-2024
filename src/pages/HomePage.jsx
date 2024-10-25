@@ -194,6 +194,7 @@ const HomePage = () => {
         <img src={story1} alt="Hero" style={styles.storyImageLeft} />
         <img src={story2} alt="Hero" style={styles.storyImageLeft} />
         <img src={story3} alt="Hero" style={styles.storyImageLeft} />
+        <img src={story3} alt="Hero" style={styles.storyImageLeft} />
         <img src={story4} alt="Hero" style={styles.storyImageRight} />
         </div></div>
       </div>
