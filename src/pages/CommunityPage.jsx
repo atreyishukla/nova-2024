@@ -50,8 +50,8 @@ const CommunityPage = () => {
   };
 
   const storyImageStyle = {
-    width: '65px', // Increase the size of the icon
-    height: '65px', // Increase the size of the icon
+    width: '70px', // Increase the size of the icon
+    height: '70px', // Increase the size of the icon
     borderRadius: '50%',
   };
 
