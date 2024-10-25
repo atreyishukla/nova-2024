@@ -87,6 +87,7 @@ const Learn = () => {
       marginTop: '20px',
       color: 'white',
       fontSize: '24px',
+      fontWeight: '900',
     },
     helpOut: {
       marginTop: '20px',
